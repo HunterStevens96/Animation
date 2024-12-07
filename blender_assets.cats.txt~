@@ -1,0 +1,16 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+16696352-77ea-4303-838b-5d5a8c80e650:CoyoteOtters:CoyoteOtters
+b4ea6551-c903-46f9-b3c5-86ee26ecfe92:CoyoteOtters:CoyoteOtters
+eb6ea26e-4350-4bcb-846d-8f5d54f6d90d:CoyoteOtters:CoyoteOtters
+a9b2861f-fbaf-463b-8f59-ff465dc95652:CoyoteOtters/Foliage:CoyoteOtters-Foliage
+6fe4bfd9-cef5-4c0a-a68a-9e5cc28bf26d:CoyoteOtters/Materials:CoyoteOtters-Materials
+c193ca93-22d3-4494-b698-021aa49862ac:CoyoteOtters/Materials:CoyoteOtters-Materials
+2a08e3c8-f01c-4050-a6be-89155577d5b1:CoyoteOtters/Rocks:CoyoteOtters-Rocks
+6dab3a28-e34f-449b-a948-cf8c244c61ca:CoyoteOtters/Rocks:CoyoteOtters-Rocks
